@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Paulius Uza and I'm an experienced full-stack engineer with many years of experience working in fintech and blockchain industries. 
+My name is Paulius Uza and I'm an full-stack engineer with many years of experience working in fintech and blockchain industries. 
 
 <!--
 **pauliusuza/pauliusuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
