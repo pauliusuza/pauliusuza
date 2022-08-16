@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on decentralized finance
-- 🌱 I’m currently learning Polkadot
+- 🔭 I’m currently working on NFTs and decentralized finance
+- 🌱 I’m currently learning modular synthesis
 - 💬 Ask me about microservices and scaling your product
 - 📫 How to reach me: my username at gmail.com
 - 😄 Pronouns: he, him
