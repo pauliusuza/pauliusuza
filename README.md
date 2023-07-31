@@ -29,4 +29,5 @@ Here are some ideas to get you started:
   <a href="#"><img src="https://img.shields.io/badge/Typescript-Enthusiast-_.svg?logo=typescript"></a>
   <a href="#"><img src="https://img.shields.io/badge/React-Advocate-_.svg?logo=react"></a>
   <a href="#"><img src="https://img.shields.io/badge/Microservice-Evangelist-_.svg"></a>
+  <a href="https://mastodon.social/@upheaver" rel="me"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/110811017152183976?domain=https%3A%2F%2Fmastodon.social"/></a>
 </p>
